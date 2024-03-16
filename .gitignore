@@ -1,2 +1,4 @@
 *.o
 *.exe
+/A_star
+/GTS1
